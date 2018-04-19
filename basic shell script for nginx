@@ -1,0 +1,4 @@
+#! /bin/bash
+git clone https://github.com/balakrishnav17/nginx.git
+cd nginx
+cp -r * /usr/share/nginx/html
