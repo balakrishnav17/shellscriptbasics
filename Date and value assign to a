@@ -1,0 +1,11 @@
+#! /bin/bash
+# version:2.0
+# author:robo
+
+ echo "this is my second shell script"
+ b=25
+ echo "b value is=$b"
+
+ echo "my shell name is=$SHELL"
+ echo "today date is:`date`"
+  echo "i am not a human being i am bot"
