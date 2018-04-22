@@ -1,0 +1,7 @@
+#! /bin/bash
+# version 2.0
+# Author:vbk
+echo "this is my third script"
+z=90
+echo "z value is=&z"
+echo "my shell name is=&SHELL"
